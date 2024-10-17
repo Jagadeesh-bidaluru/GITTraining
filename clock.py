@@ -2,7 +2,7 @@ import tkinter
 from time import strftime
 
 top = tkinter.Tk()
-top.title("Clock")
+top.title("Clockk")
 top.resizable(0, 0)
 
 
